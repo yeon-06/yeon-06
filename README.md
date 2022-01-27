@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm yeonLog.
 
-<!--
-**yeon-06/yeon-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Blog: [yeonyeon.tistory.com](yeonyeon.tistory.com)  
+📫 Mail: white_la@naver.com
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+- Back-End: Java, Spring, MyBatis, JPA
+- Database: Oracle DB, MySQL, Mssql
+- Front-End: javascript, html, css
+- Etc: Git, SVN
+
+<br>
+
+[![yeonLog's github stats](https://github-readme-stats.vercel.app/api?username=yeon-06)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-06&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

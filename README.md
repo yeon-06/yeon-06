@@ -9,7 +9,8 @@
 <h3 align="center">🚀 Follow Me 🚀</h3>
 <p align="center">
   <a href="https://yeonyeon.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://yeonyeon.tistory.com"/></a>&nbsp
-  <a href="mailto:yeonlog06@gmail.com"><img src="https://img.shields.io/badge/Email-44A833?style=flat-square&logo=Mail.Ru&logoColor=white&link=white_la@naver.com"/></a>&nbsp
+  <a href="mailto:yeonlog06@gmail.com"><img src="https://img.shields.io/badge/Email-44A833?style=flat-square&logo=Mail.Ru&logoColor=white&link=yeonlog06@gmail.com"/></a>&nbsp
+  <a href="https://twitter.com/yeonlog06"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yeonlog06"/></a>&nbsp
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>

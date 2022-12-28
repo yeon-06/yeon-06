@@ -1,27 +1,19 @@
-<h3 align="center">
+### 🚀 About Me
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20yeonLog!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+- 안녕하세요! 신입 백엔드 개발자 권시연 입니다.
+- 블로그, 깃허브 등 꾸준한 기록 활동을 통해 **꾸준함을 증명**할 수 있습니다.
+- **지식을 공유하며 소통**하는 활동을 좋아하여 [한이음](https://www.hanium.or.kr/portal/index.do), [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516), [MeetCoder](https://github.com/Meet-Coder-Study/posting-review) 등 20여 개 이상의 스터디 또는 멘토 멘티 활동에 참여 하였습니다.
+- **모르는 것을 빠르게 질문**하고, 자신의 의견을 드러내는 것에 불편함이 없습니다.
+- 유지보수하기 좋은 코드가 누구든지 이해할 수 있는, 좋은 코드라고 생각합니다.
 
-</h3>
+<br/>
 
-<br>
+### 📚 Blog
 
-<h3 align="center">🚀 Follow Me 🚀</h3>
-<p align="center">
-  <a href="https://yeonyeon.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://yeonyeon.tistory.com"/></a>&nbsp
-  <a href="mailto:yeonlog06@gmail.com"><img src="https://img.shields.io/badge/Email-44A833?style=flat-square&logo=Mail.Ru&logoColor=white&link=yeonlog06@gmail.com"/></a>&nbsp
-  <a href="https://twitter.com/yeonlog06"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yeonlog06"/></a>&nbsp
-</p>
+(22.12.14) [2022 신입 개발자의 취준 일기](https://yeonyeon.tistory.com/292)
+(22.12.09) [[Java] 동시성 이슈 해결하기 (1)](https://yeonyeon.tistory.com/291)
+(22.11.27) [[우테코] 우아한테크코스 4기 수료 후기](https://yeonyeon.tistory.com/290)
+(22.11.23) [[Spring/AOP] JDK Dynamic Proxy vs CGLIB Proxy](https://yeonyeon.tistory.com/289)
+(22.11.17) [[JPA] @Query와 @Transactional을 꼭 같이 써야하나요?🤔](https://yeonyeon.tistory.com/288)
+(22.11.13) [[우테코] JDBC 라이브러리 구현 미션 학습 로그](https://yeonyeon.tistory.com/287)
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp<br>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
-
-</p>

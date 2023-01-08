@@ -12,7 +12,7 @@
 <table><tbody><tr>
 <td>
     <a href="https://yeonyeon.tistory.com/292">
-        <img width="100%" src="./8451293135926663802.png"/><br/>
+        <img width="100%" src="./1389308854090620129.png"/><br/>
         <div>2022 신입 개발자의 취준 일기</div>
     </a>
     <div>0. 서론 😎 올해를 회고하자면 '우테코', '취업' 이 2가지가 전부이다. 우테코에 대...</div>
@@ -20,7 +20,7 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/291">
-        <img width="100%" src="./7875064702344400294.png"/><br/>
+        <img width="100%" src="./8584582400808568069.png"/><br/>
         <div>[Java] 동시성 이슈 해결하기 (1)</div>
     </a>
     <div>같은 계좌를 이용하는 A와 B라는 이용자가 있다고 가정한다. 동일한 시간에 A는 카드를 이...</div>
@@ -28,7 +28,7 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/290">
-        <img width="100%" src="./1156685611473290996.png"/><br/>
+        <img width="100%" src="./1524831818978443199.png"/><br/>
         <div>[우테코] 우아한테크코스 4기 수료 후기</div>
     </a>
     <div>11월 25일 금요일, 우아한테크코스 4기가 마무리되었다. 이 글을 취직 후 나름의 성공(...</div>
@@ -38,7 +38,7 @@
 <tr>
 <td>
     <a href="https://yeonyeon.tistory.com/289">
-        <img width="100%" src="./1659476371332220588.png"/><br/>
+        <img width="100%" src="./6555885678687662960.png"/><br/>
         <div>[Spring/AOP] JDK Dynamic Proxy vs CGLIB Proxy</div>
     </a>
     <div>목차 JDK Dynamic Proxy vs CGLIB Proxy JDK Dynamic Pr...</div>
@@ -46,7 +46,7 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/288">
-        <img width="100%" src="./3411517632672306320.png"/><br/>
+        <img width="100%" src="./6928558004944675037.png"/><br/>
         <div>[JPA] @Query와 @Transactional을 꼭 같이 써야하나요?🤔</div>
     </a>
     <div>😄 서론 지난 번에 deleteAll과 관련해 N+1 문제가 발생했었다. 그 과정에 @Q...</div>
@@ -54,7 +54,7 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/287">
-        <img width="100%" src="./2459960292974088617.png"/><br/>
+        <img width="100%" src="./8456471800431475800.png"/><br/>
         <div>[우테코] JDBC 라이브러리 구현 미션 학습 로그</div>
     </a>
     <div>포스팅을 깜빡하고 있다가 여태까지 한 미션들을 복습하며 이제야 정리하게 되었다. 1. 요구...</div>

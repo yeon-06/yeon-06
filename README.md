@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/294">
+        <img width="100%" src="/img/5715190472783881464.png"/><br/>
+        <div>[Java] replaceAll 대신 replace 사용하기</div>
+    </a>
+    <div>🙂 개요 String에서 흔히 사용하는 메서드 중에서는 replaceAll라는게 있다. ...</div>
+    <div>23.01.22</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/293">
-        <img width="100%" src="/img/2921824162152025940.png"/><br/>
+        <img width="100%" src="/img/7194131775520863139.png"/><br/>
         <div>[토이 프로젝트] 깃허브 프로필에 최신 포스트 자동 업데이트하기</div>
     </a>
     <div>😆 시작 계기 깃허브 프로필을 어떻게 꾸밀까 고민하다가 블로그의 최신 글 목록을 올려놓기...</div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/292">
-        <img width="100%" src="/img/3521313597840517153.png"/><br/>
+        <img width="100%" src="/img/8505362823891808079.png"/><br/>
         <div>2022 신입 개발자의 취준 일기</div>
     </a>
     <div>0. 서론 😎 올해를 회고하자면 '우테코', '취업' 이 2가지가 전부이다. 우테코에 대...</div>
     <div>22.12.14</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/291">
-        <img width="100%" src="/img/7738813480203556308.png"/><br/>
+        <img width="100%" src="/img/8551502202049430211.png"/><br/>
         <div>[Java] 동시성 이슈 해결하기 (1)</div>
     </a>
     <div>같은 계좌를 이용하는 A와 B라는 이용자가 있다고 가정한다. 동일한 시간에 A는 카드를 이...</div>
     <div>22.12.09</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/290">
-        <img width="100%" src="/img/8107788902087080007.png"/><br/>
+        <img width="100%" src="/img/5354635289523883198.png"/><br/>
         <div>[우테코] 우아한테크코스 4기 수료 후기</div>
     </a>
     <div>11월 25일 금요일, 우아한테크코스 4기가 마무리되었다. 이 글을 취직 후 나름의 성공(...</div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/289">
-        <img width="100%" src="/img/7894191095001502106.png"/><br/>
+        <img width="100%" src="/img/1875641291493011955.png"/><br/>
         <div>[Spring/AOP] JDK Dynamic Proxy vs CGLIB Proxy</div>
     </a>
     <div>목차 JDK Dynamic Proxy vs CGLIB Proxy JDK Dynamic Pr...</div>
     <div>22.11.23</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/288">
-        <img width="100%" src="/img/1885611039510474370.png"/><br/>
-        <div>[JPA] @Query와 @Transactional을 꼭 같이 써야하나요?🤔</div>
-    </a>
-    <div>😄 서론 지난 번에 deleteAll과 관련해 N+1 문제가 발생했었다. 그 과정에 @Q...</div>
-    <div>22.11.17</div>
 </td>
 </tr>
 </tbody></table>

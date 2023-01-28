@@ -11,54 +11,54 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/295">
+        <img width="100%" src="/img/8219524004927055136.png"/><br/>
+        <div>[책 후기] 프로그래머의 뇌</div>
+    </a>
+    <div>프로그래머의 뇌 펠리너 헤르만 / 출판사 제이펍 프로그래머의 뇌 - YES24 인지과학을 활용한 개발자의 일머리 개선법...</div>
+    <div>23.01.28</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/294">
-        <img width="100%" src="/img/1260932695795028188.png"/><br/>
+        <img width="100%" src="/img/7126457130397122196.png"/><br/>
         <div>[Java] replaceAll 대신 replace 사용하기</div>
     </a>
-    <div>🙂 개요 String에서 흔히 사용하는 메서드 중에서는 replaceAll라는게 있다. ...</div>
+    <div>🙂 개요 String에서 흔히 사용하는 메서드 중에서는 replaceAll라는게 있다. 다들 알다시피 replaceAll은 특정 문자를...</div>
     <div>23.01.22</div>
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/293">
-        <img width="100%" src="/img/8151751100474235577.png"/><br/>
+        <img width="100%" src="/img/472626858522789188.png"/><br/>
         <div>[토이 프로젝트] 깃허브 프로필에 최신 포스트 자동 업데이트하기</div>
     </a>
-    <div>😆 시작 계기 깃허브 프로필을 어떻게 꾸밀까 고민하다가 블로그의 최신 글 목록을 올려놓기...</div>
+    <div>😆 시작 계기 깃허브 프로필을 어떻게 꾸밀까 고민하다가 블로그의 최신 글 목록을 올려놓기로 다짐했다. 다만 포스팅...</div>
     <div>23.01.17</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/292">
-        <img width="100%" src="/img/5343182961667972425.png"/><br/>
-        <div>2022 신입 개발자의 취준 일기</div>
-    </a>
-    <div>0. 서론 😎 올해를 회고하자면 '우테코', '취업' 이 2가지가 전부이다. 우테코에 대...</div>
-    <div>22.12.14</div>
 </td>
 </tr>
 <tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/292">
+        <img width="100%" src="/img/4991207951389020680.png"/><br/>
+        <div>2022 신입 개발자의 취준 일기</div>
+    </a>
+    <div>0. 서론 😎 올해를 회고하자면 '우테코', '취업' 이 2가지가 전부이다. 우테코에 대한 회고는 이미 작성했으니까 취준...</div>
+    <div>22.12.14</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/291">
-        <img width="100%" src="/img/3312215875156917980.png"/><br/>
+        <img width="100%" src="/img/294457966274583682.png"/><br/>
         <div>[Java] 동시성 이슈 해결하기 (1)</div>
     </a>
-    <div>같은 계좌를 이용하는 A와 B라는 이용자가 있다고 가정한다. 동일한 시간에 A는 카드를 이...</div>
+    <div>같은 계좌를 이용하는 A와 B라는 이용자가 있다고 가정한다. 동일한 시간에 A는 카드를 이용해 상품을 결제했고, B는 ...</div>
     <div>22.12.09</div>
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/290">
-        <img width="100%" src="/img/8488002910672259918.png"/><br/>
+        <img width="100%" src="/img/2831476232549163203.png"/><br/>
         <div>[우테코] 우아한테크코스 4기 수료 후기</div>
     </a>
-    <div>11월 25일 금요일, 우아한테크코스 4기가 마무리되었다. 이 글을 취직 후 나름의 성공(...</div>
+    <div>11월 25일 금요일, 우아한테크코스 4기가 마무리되었다. 이 글을 취직 후 나름의 성공(?)을 한 뒤에 쓸까 지금 쓸까 ...</div>
     <div>22.11.27</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/289">
-        <img width="100%" src="/img/9096830895162411558.png"/><br/>
-        <div>[Spring/AOP] JDK Dynamic Proxy vs CGLIB Proxy</div>
-    </a>
-    <div>목차 JDK Dynamic Proxy vs CGLIB Proxy JDK Dynamic Pr...</div>
-    <div>22.11.23</div>
 </td>
 </tr>
 </tbody></table>

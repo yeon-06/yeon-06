@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/309">
+        <img width="100%" src="/img/7319970805395023480.png"/><br/>
+        <div>입사 6개월차 신입의 회고 </div>
+    </a>
+    <div>올해 1월, 정말 운이 좋게도 원하던 회사에 입사하게 되었습니다. (자세한 취준 일기가 궁금하신 분들은 요 링크로!) ... </div>
+    <div>23.07.15</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/308">
-        <img width="100%" src="/img/7454877836532930793.png"/><br/>
+        <img width="100%" src="/img/8031936089194282953.png"/><br/>
         <div>[Java] UnaryOperator란 ? </div>
     </a>
     <div>📚 UnaryOperator란 ? : Java에서 제공하는 함수형 인터페이스 인수(argument)와 반환 결과(return)가 동일한 타입을 ... </div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/307">
-        <img width="100%" src="/img/738463783734063153.png"/><br/>
+        <img width="100%" src="/img/2531166482348212312.png"/><br/>
         <div>'is not NULL'과 '!= NULL'은 다르다? </div>
     </a>
     <div>팀원분이 비슷해 보이는 두 쿼리문를 보내시며 둘의 결과가 서로 다르다고 보내주셨다. 두 쿼리의 차이점은 오직 NULL... </div>
     <div>23.06.07</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/306">
-        <img width="100%" src="/img/7260369658505712139.png"/><br/>
+        <img width="100%" src="/img/3958592038957824704.png"/><br/>
         <div>[Spring] 스프링 캐시 간단하게 사용해보기 </div>
     </a>
     <div>목차 1. 스프링의 캐싱 방법 2. 사전 준비 3. 예제 코드 1. 스프링의 캐싱 방법 캐싱 자주 사용하는 데이터를 어딘가 ... </div>
     <div>23.05.31</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/305">
-        <img width="100%" src="/img/8728484179489691861.png"/><br/>
+        <img width="100%" src="/img/2470105318418078914.png"/><br/>
         <div>[Backspace 후기] 글또 반상회를 다녀오고 </div>
     </a>
     <div>5월 19일, 글또에서 'Backspace'라는 이름으로 반상회가 열렸다. 작년에도 이와 비슷하게 글또콘이라는 행사가 열렸었... </div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/304">
-        <img width="100%" src="/img/8362759039696163087.png"/><br/>
+        <img width="100%" src="/img/2109359149607400715.png"/><br/>
         <div>[Spring] '/', 문자열인가 경로인가 그것이 문제로다 </div>
     </a>
     <div>🤔 문제의 시작 API를 호출하면 json이 아닌 html 코드로 응답이 오고 있다는 이슈를 제보받았습니다. 해당 html 코드... </div>
     <div>23.05.12</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/303">
-        <img width="100%" src="/img/1935773971435879278.png"/><br/>
-        <div>[HTTP] Accept-Charset 은 왜 deprecated 되었나 </div>
-    </a>
-    <div>1. Accept Charset 설정 HTTP 헤더의 Accept에 "application/j son;charset=UTF-8"값을 넣기 위해 아래와 같은 코드를 ... </div>
-    <div>23.05.02</div>
 </td>
 </tr>
 </tbody></table>

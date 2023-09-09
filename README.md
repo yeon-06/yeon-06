@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/313">
+        <img width="100%" src="/img/2747826526102176049.png"/><br/>
+        <div>[책 후기] 내 코드가 그렇게 이상한가요? </div>
+    </a>
+    <div>저자: 센바 다이야 출판사: 인사이트 책 링크:  1. 읽게 된 계... </div>
+    <div>23.09.09</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/312">
-        <img width="100%" src="/img/6940629096382975890.png"/><br/>
+        <img width="100%" src="/img/5753779198880328770.png"/><br/>
         <div>[인프콘 후기] 2023 INFCON </div>
     </a>
     <div>1. 인프콘에 참가하다 🙂 어떻게 참가할 수 있었는가 때는 2023년 7월 18일 12시 48분. 인프콘 추첨 결과 공개까지 12... </div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/311">
-        <img width="100%" src="/img/8066187260670780795.png"/><br/>
+        <img width="100%" src="/img/2808541805797627238.png"/><br/>
         <div>[Git] 머지 커밋 revert 하기 </div>
     </a>
     <div>🤔 git revert란? git revert란 일부 기존의 커밋들을 되돌리는 작업이다. git reset과는 다른 것이, git reset은 기... </div>
     <div>23.08.13</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/310">
-        <img width="100%" src="/img/9188834980247484156.png"/><br/>
+        <img width="100%" src="/img/629324797464721441.png"/><br/>
         <div>[Spring Batch] 개념부터 코드까지 </div>
     </a>
     <div>목차 1. Spring Batch란? 2. Spring Batch 구조 3. 기본적인 세팅 4. Job, Step 5. ItemReader, ItemProcessor,  ItemW... </div>
     <div>23.07.21</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/309">
-        <img width="100%" src="/img/1103457568065398817.png"/><br/>
+        <img width="100%" src="/img/4619984702974585764.png"/><br/>
         <div>입사 6개월차 신입의 회고 </div>
     </a>
     <div>올해 1월, 정말 운이 좋게도 원하던 회사에 입사하게 되었습니다. (자세한 취준 일기가 궁금하신 분들은 요 링크로!) ... </div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/308">
-        <img width="100%" src="/img/1259925314056219205.png"/><br/>
+        <img width="100%" src="/img/6966386618742878793.png"/><br/>
         <div>[Java] UnaryOperator란 ? </div>
     </a>
     <div>📚 UnaryOperator란 ? : Java에서 제공하는 함수형 인터페이스 인수(argument)와 반환 결과(return)가 동일한 타입을 ... </div>
     <div>23.06.26</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/307">
-        <img width="100%" src="/img/1334639195886644039.png"/><br/>
-        <div>'is not NULL'과 '!= NULL'은 다르다? </div>
-    </a>
-    <div>팀원분이 비슷해 보이는 두 쿼리문를 보내시며 둘의 결과가 서로 다르다고 보내주셨다. 두 쿼리의 차이점은 오직 NULL... </div>
-    <div>23.06.07</div>
 </td>
 </tr>
 </tbody></table>

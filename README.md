@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/316">
+        <img width="100%" src="/img/1025207975954580861.png"/><br/>
+        <div>[책 후기] 사라진 개발자들 </div>
+    </a>
+    <div>저자: 캐시 클라이먼 출판사: 한빛미디어 책 링크:  1... </div>
+    <div>23.10.02</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/315">
-        <img width="100%" src="/img/5212453633647431977.png"/><br/>
+        <img width="100%" src="/img/3160698507166544147.png"/><br/>
         <div>[Mockito] Invalid use of argument matchers! 에러 </div>
     </a>
     <div>😱 에러 발생 org.mockito.ex ceptions.misus ing.InvalidUse OfMatchersExce ption: Invalid use of argument matchers! ... </div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/314">
-        <img width="100%" src="/img/2013686221631578007.png"/><br/>
+        <img width="100%" src="/img/5665174126386582956.png"/><br/>
         <div>[JPA] @Where 무시하기 </div>
     </a>
     <div>DB에서 데이터 삭제를 하기 위해서는 크게 hard delete와 soft delete가 존재한다. hard delete: SQL의 DELETE문을 이... </div>
     <div>23.09.11</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/313">
-        <img width="100%" src="/img/466821277495695065.png"/><br/>
+        <img width="100%" src="/img/5003306233200100386.png"/><br/>
         <div>[책 후기] 내 코드가 그렇게 이상한가요? </div>
     </a>
     <div>저자: 센바 다이야 출판사: 인사이트 책 링크:  1. 읽게 된 계... </div>
     <div>23.09.09</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/312">
-        <img width="100%" src="/img/1200928206541028295.png"/><br/>
+        <img width="100%" src="/img/7703694905132378155.png"/><br/>
         <div>[인프콘 후기] 2023 INFCON </div>
     </a>
     <div>1. 인프콘에 참가하다 🙂 어떻게 참가할 수 있었는가 때는 2023년 7월 18일 12시 48분. 인프콘 추첨 결과 공개까지 12... </div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/311">
-        <img width="100%" src="/img/3982414755845315470.png"/><br/>
+        <img width="100%" src="/img/7138165117376945539.png"/><br/>
         <div>[Git] 머지 커밋 revert 하기 </div>
     </a>
     <div>🤔 git revert란? git revert란 일부 기존의 커밋들을 되돌리는 작업이다. git reset과는 다른 것이, git reset은 기... </div>
     <div>23.08.13</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/310">
-        <img width="100%" src="/img/1505639050899851824.png"/><br/>
-        <div>[Spring Batch] 개념부터 코드까지 </div>
-    </a>
-    <div>목차 1. Spring Batch란? 2. Spring Batch 구조 3. 기본적인 세팅 4. Job, Step 5. ItemReader, ItemProcessor,  ItemW... </div>
-    <div>23.07.21</div>
 </td>
 </tr>
 </tbody></table>

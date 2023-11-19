@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/319">
+        <img width="100%" src="/img/3583331331420179169.png"/><br/>
+        <div>[DB] update set에서 주의할 점 </div>
+    </a>
+    <div>최근 update 쿼리를 짜면서 겪었던 실수를 공유해보려고 한다. 일단 간단한 테스트 데이터를 준비해보았다. insert in...</div>
+    <div>23.11.19</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/318">
-        <img width="100%" src="/img/5587416947102256088.png"/><br/>
+        <img width="100%" src="/img/2817523029929966726.png"/><br/>
         <div>@Async와 함께 사라지다 (feat. TaskDecorator)  </div>
     </a>
     <div>목차 1. 스레드가 가진 데이터, ThreadLocal 2. 데이터가 사라졌어요 (예제코드) 3. 비동기와 사라진 데이터 3. Threa...</div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/317">
-        <img width="100%" src="/img/4949206308070301414.png"/><br/>
+        <img width="100%" src="/img/3281229132157783436.png"/><br/>
         <div>[Spring Batch] JobExecutionAl readyRunningEx ception 에러 </div>
     </a>
     <div>🤯 에러 발생 Spring Batch에서 job을 실행하다가 아래와 같은 에러와 마주쳤다. java.lang.Ille galStateExcept ion:...</div>
     <div>23.10.16</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/316">
-        <img width="100%" src="/img/5260700970795060973.png"/><br/>
+        <img width="100%" src="/img/7534592562959803788.png"/><br/>
         <div>[책 후기] 사라진 개발자들 </div>
     </a>
     <div>저자: 캐시 클라이먼 출판사: 한빛미디어 책 링크:  1. 책을 읽기 시작하며 개인적으로는 정말 재밌게 읽었다! 이 책...</div>
     <div>23.10.02</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/315">
-        <img width="100%" src="/img/3537242401899009897.png"/><br/>
+        <img width="100%" src="/img/8020313879850488722.png"/><br/>
         <div>[Mockito] Invalid use of argument matchers! 에러 </div>
     </a>
     <div>😱 에러 발생 org.mockito.ex ceptions.misus ing.InvalidUse OfMatchersExce ption: Invalid use of argument matche...</div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/314">
-        <img width="100%" src="/img/49869427066612362.png"/><br/>
+        <img width="100%" src="/img/9022262146897307735.png"/><br/>
         <div>[JPA] @Where 무시하기 </div>
     </a>
     <div>DB에서 데이터 삭제를 하기 위해서는 크게 hard delete와 soft delete가 존재한다. hard delete: SQL의 DELETE문을 이...</div>
     <div>23.09.11</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/313">
-        <img width="100%" src="/img/6709217015194268985.png"/><br/>
-        <div>[책 후기] 내 코드가 그렇게 이상한가요? </div>
-    </a>
-    <div>저자: 센바 다이야 출판사: 인사이트 책 링크:  1. 읽게 된 계기 친구들과 하는, 주에 한 번씩 모이는 스터디가 있다....</div>
-    <div>23.09.09</div>
 </td>
 </tr>
 </tbody></table>

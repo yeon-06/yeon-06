@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/326">
+        <img width="100%" src="/img/5278121341389245668.png"/><br/>
+        <div>무기력을 흘려보내는 이야기 </div>
+    </a>
+    <div>목차 1. 무기력이 찾아온 이야기 2. 무기력을 받아들이는 이야기 3. 무기력을 흘려보내는 이야기 4. 마무리하는 이야...</div>
+    <div>24.03.31</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/325">
-        <img width="100%" src="/img/385166863958952373.png"/><br/>
+        <img width="100%" src="/img/1988667735155028921.png"/><br/>
         <div>[Java] compiler message file broken 에러 </div>
     </a>
     <div>compiler message file broken: key=compiler.m isc.msg.bug arguments=11.0 .13, {1}, {2}, {3}, {4}, {5}, {6}, {7}...</div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/324">
-        <img width="100%" src="/img/8214724484558213172.png"/><br/>
+        <img width="100%" src="/img/991161875750636604.png"/><br/>
         <div>[SpringDoc] 쿼리 파라미터가 이상하다? </div>
     </a>
     <div>SpringFox에서 SpringDoc으로 마이그레이션하던 와중, 몇가지 이슈가 발생했다. (참고글: [SpringDoc] SpringFox -> S...</div>
     <div>24.02.18</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/323">
-        <img width="100%" src="/img/1175109190691002524.png"/><br/>
+        <img width="100%" src="/img/2611886392896477636.png"/><br/>
         <div>[SpringDoc] 우리 enum이 달라졌어요 </div>
     </a>
     <div>SpringFox에서 SpringDoc으로 마이그레이션 하던 와중, 몇 가지 이슈가 발생했다. (참고글: [SpringDoc] SpringFox ->...</div>
     <div>24.01.28</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/322">
-        <img width="100%" src="/img/2707409913118531776.png"/><br/>
+        <img width="100%" src="/img/5415289313286374569.png"/><br/>
         <div>[SpringDoc] SpringFox -> SpringDoc 마이그레이션 일지 </div>
     </a>
     <div>목차 0. 서론 1. Swagger vs SpringFox vs SpringDoc 2. 왜 SpringFox보다 SpringDoc일까? 3. SpringDoc으로 마이그레...</div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/321">
-        <img width="100%" src="/img/6587898671200007221.png"/><br/>
+        <img width="100%" src="/img/2874275454416957899.png"/><br/>
         <div>[한빛N MSA 후기] 일을 잘하는 방법 </div>
     </a>
     <div>서론 얼마 전에 한빛미디어가 주최하는 세미나에 다녀왔다. 한빛N MSA라고 불리는 이 작은 세미나는 이미 10차례나 진...</div>
     <div>23.12.25</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/320">
-        <img width="100%" src="/img/6369464435265917842.png"/><br/>
-        <div>1년차 개발자의 2023 회고 </div>
-    </a>
-    <div>0. 서론 겨우 6개월 전에 상반기 회고를 작성했어서 2023 전체 회고는 패스해야지~라고 생각했었다. (입사 6개월차 신...</div>
-    <div>23.12.17</div>
 </td>
 </tr>
 </tbody></table>

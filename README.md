@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/327">
+        <img width="100%" src="/img/8186276775848972989.png"/><br/>
+        <div>[Reactor] zip vs zipWith vs zipWhen </div>
+    </a>
+    <div>💡 zip() 여러개의 Publisher를 인자로 넘기고, 이 모든 Publisher들의 결과를 한 묶음으로 조회할 수 있다. Publishe...</div>
+    <div>24.04.07</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/326">
-        <img width="100%" src="/img/5278121341389245668.png"/><br/>
+        <img width="100%" src="/img/3349104114772256866.png"/><br/>
         <div>무기력을 흘려보내는 이야기 </div>
     </a>
     <div>목차 1. 무기력이 찾아온 이야기 2. 무기력을 받아들이는 이야기 3. 무기력을 흘려보내는 이야기 4. 마무리하는 이야...</div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/325">
-        <img width="100%" src="/img/1988667735155028921.png"/><br/>
+        <img width="100%" src="/img/8511599679856954135.png"/><br/>
         <div>[Java] compiler message file broken 에러 </div>
     </a>
     <div>compiler message file broken: key=compiler.m isc.msg.bug arguments=11.0 .13, {1}, {2}, {3}, {4}, {5}, {6}, {7}...</div>
     <div>24.03.17</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/324">
-        <img width="100%" src="/img/991161875750636604.png"/><br/>
+        <img width="100%" src="/img/4955606753774610931.png"/><br/>
         <div>[SpringDoc] 쿼리 파라미터가 이상하다? </div>
     </a>
     <div>SpringFox에서 SpringDoc으로 마이그레이션하던 와중, 몇가지 이슈가 발생했다. (참고글: [SpringDoc] SpringFox -> S...</div>
     <div>24.02.18</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/323">
-        <img width="100%" src="/img/2611886392896477636.png"/><br/>
+        <img width="100%" src="/img/2257871779374898956.png"/><br/>
         <div>[SpringDoc] 우리 enum이 달라졌어요 </div>
     </a>
     <div>SpringFox에서 SpringDoc으로 마이그레이션 하던 와중, 몇 가지 이슈가 발생했다. (참고글: [SpringDoc] SpringFox ->...</div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/322">
-        <img width="100%" src="/img/5415289313286374569.png"/><br/>
+        <img width="100%" src="/img/766635400071968799.png"/><br/>
         <div>[SpringDoc] SpringFox -> SpringDoc 마이그레이션 일지 </div>
     </a>
     <div>목차 0. 서론 1. Swagger vs SpringFox vs SpringDoc 2. 왜 SpringFox보다 SpringDoc일까? 3. SpringDoc으로 마이그레...</div>
     <div>24.01.14</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/321">
-        <img width="100%" src="/img/2874275454416957899.png"/><br/>
-        <div>[한빛N MSA 후기] 일을 잘하는 방법 </div>
-    </a>
-    <div>서론 얼마 전에 한빛미디어가 주최하는 세미나에 다녀왔다. 한빛N MSA라고 불리는 이 작은 세미나는 이미 10차례나 진...</div>
-    <div>23.12.25</div>
 </td>
 </tr>
 </tbody></table>

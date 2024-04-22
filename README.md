@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/328">
+        <img width="100%" src="/img/5896491003426303148.png"/><br/>
+        <div>[책 후기] 도둑맞은 집중력 </div>
+    </a>
+    <div>저자: 요한 하리 출판사: 어크로스 책 링크:  1. 읽게 된 계기 오늘 후기를 작성하는 책은 IT 서적은 아니다. 서점에...</div>
+    <div>24.04.21</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/327">
-        <img width="100%" src="/img/8186276775848972989.png"/><br/>
+        <img width="100%" src="/img/5408322226345765076.png"/><br/>
         <div>[Reactor] zip vs zipWith vs zipWhen </div>
     </a>
     <div>💡 zip() 여러개의 Publisher를 인자로 넘기고, 이 모든 Publisher들의 결과를 한 묶음으로 조회할 수 있다. Publishe...</div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/326">
-        <img width="100%" src="/img/3349104114772256866.png"/><br/>
+        <img width="100%" src="/img/4880113720733066060.png"/><br/>
         <div>무기력을 흘려보내는 이야기 </div>
     </a>
     <div>목차 1. 무기력이 찾아온 이야기 2. 무기력을 받아들이는 이야기 3. 무기력을 흘려보내는 이야기 4. 마무리하는 이야...</div>
     <div>24.03.31</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/325">
-        <img width="100%" src="/img/8511599679856954135.png"/><br/>
+        <img width="100%" src="/img/1232930967023788192.png"/><br/>
         <div>[Java] compiler message file broken 에러 </div>
     </a>
     <div>compiler message file broken: key=compiler.m isc.msg.bug arguments=11.0 .13, {1}, {2}, {3}, {4}, {5}, {6}, {7}...</div>
     <div>24.03.17</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/324">
-        <img width="100%" src="/img/4955606753774610931.png"/><br/>
+        <img width="100%" src="/img/8214684057092032366.png"/><br/>
         <div>[SpringDoc] 쿼리 파라미터가 이상하다? </div>
     </a>
     <div>SpringFox에서 SpringDoc으로 마이그레이션하던 와중, 몇가지 이슈가 발생했다. (참고글: [SpringDoc] SpringFox -> S...</div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/323">
-        <img width="100%" src="/img/2257871779374898956.png"/><br/>
+        <img width="100%" src="/img/962201225847794294.png"/><br/>
         <div>[SpringDoc] 우리 enum이 달라졌어요 </div>
     </a>
     <div>SpringFox에서 SpringDoc으로 마이그레이션 하던 와중, 몇 가지 이슈가 발생했다. (참고글: [SpringDoc] SpringFox ->...</div>
     <div>24.01.28</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/322">
-        <img width="100%" src="/img/766635400071968799.png"/><br/>
-        <div>[SpringDoc] SpringFox -> SpringDoc 마이그레이션 일지 </div>
-    </a>
-    <div>목차 0. 서론 1. Swagger vs SpringFox vs SpringDoc 2. 왜 SpringFox보다 SpringDoc일까? 3. SpringDoc으로 마이그레...</div>
-    <div>24.01.14</div>
 </td>
 </tr>
 </tbody></table>

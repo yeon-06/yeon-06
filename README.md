@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/331">
+        <img width="100%" src="/img/6400730016177232860.png"/><br/>
+        <div>Spring Camp 2024 후기 </div>
+    </a>
+    <div>😎 참가 신청 2024년 5월 25일, KSUG가 주관하는 스프링 캠프 컨퍼런스에 다녀왔다. 매년 인기가 좋은 컨퍼런스인지 ...</div>
+    <div>24.05.25</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/330">
-        <img width="100%" src="/img/4235313789521753196.png"/><br/>
+        <img width="100%" src="/img/6982912368601388277.png"/><br/>
         <div>[Reactor] 서버 느리게 만드는 API 개발하기 (feat: block) </div>
     </a>
     <div>1. 엉망진창 시작 🤯 Reactor에 대해서 'WebFlux는 비동기 프로그래밍할 때 쓴다', 'Mono는 단일 요소, Flux는 여러 ...</div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/329">
-        <img width="100%" src="/img/462539764951388985.png"/><br/>
+        <img width="100%" src="/img/5521669280302689461.png"/><br/>
         <div>[Spring] ReactiveCrudRe pository를 이용한 삭제 시 주의점 </div>
     </a>
     <div>😟 문제 상황 찜을 삭제하고 별도의 작업을 위해 event publish 하는 로직을 작성하였다.fun remove(favorit e: Favor...</div>
     <div>24.04.28</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/328">
-        <img width="100%" src="/img/2622562194035085563.png"/><br/>
+        <img width="100%" src="/img/4074118063351882134.png"/><br/>
         <div>[책 후기] 도둑맞은 집중력 </div>
     </a>
     <div>저자: 요한 하리 출판사: 어크로스 책 링크:  1. 읽게 된 계기 오늘 후기를 작성하는 책은 IT 서적은 아니다. 서점에...</div>
     <div>24.04.21</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/327">
-        <img width="100%" src="/img/1670146241891955489.png"/><br/>
+        <img width="100%" src="/img/8591750365638968114.png"/><br/>
         <div>[Reactor] zip vs zipWith vs zipWhen </div>
     </a>
     <div>💡 zip() 여러개의 Publisher를 인자로 넘기고, 이 모든 Publisher들의 결과를 한 묶음으로 조회할 수 있다. Publishe...</div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/326">
-        <img width="100%" src="/img/7630569707736219868.png"/><br/>
+        <img width="100%" src="/img/3296920317346812318.png"/><br/>
         <div>무기력을 흘려보내는 이야기 </div>
     </a>
-    <div>목차 1. 무기력이 찾아온 이야기 2. 무기력을 받아들이는 이야기 3. 무기력을 흘려보내는 이야기 4. 마무리하는 이야...</div>
+    <div>목차1. 무기력이 찾아온 이야기2. 무기력을 받아들이는 이야기3. 무기력을 흘려보내는 이야기4. 마무리하는 이야기 1....</div>
     <div>24.03.31</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/325">
-        <img width="100%" src="/img/2707375874157998630.png"/><br/>
-        <div>[Java] compiler message file broken 에러 </div>
-    </a>
-    <div>compiler message file broken: key=compiler.m isc.msg.bug arguments=11.0 .13, {1}, {2}, {3}, {4}, {5}, {6}, {7}...</div>
-    <div>24.03.17</div>
 </td>
 </tr>
 </tbody></table>

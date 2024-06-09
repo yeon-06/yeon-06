@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/332">
+        <img width="100%" src="/img/5695473740882387765.png"/><br/>
+        <div>왜 코루틴을 써야할까? </div>
+    </a>
+    <div>😏 스레드의 한계 JVM은 스레드를 기반으로 동작한다. 단일 스레드는 동시 작업을 수행할 수 없기 때문에 하나의 작업...</div>
+    <div>24.06.09</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/331">
-        <img width="100%" src="/img/6400730016177232860.png"/><br/>
+        <img width="100%" src="/img/4266263544750852507.png"/><br/>
         <div>Spring Camp 2024 후기 </div>
     </a>
     <div>😎 참가 신청 2024년 5월 25일, KSUG가 주관하는 스프링 캠프 컨퍼런스에 다녀왔다. 매년 인기가 좋은 컨퍼런스인지 ...</div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/330">
-        <img width="100%" src="/img/6982912368601388277.png"/><br/>
+        <img width="100%" src="/img/4365824657252227312.png"/><br/>
         <div>[Reactor] 서버 느리게 만드는 API 개발하기 (feat: block) </div>
     </a>
     <div>1. 엉망진창 시작 🤯 Reactor에 대해서 'WebFlux는 비동기 프로그래밍할 때 쓴다', 'Mono는 단일 요소, Flux는 여러 ...</div>
     <div>24.05.06</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/329">
-        <img width="100%" src="/img/5521669280302689461.png"/><br/>
+        <img width="100%" src="/img/6389381913935886912.png"/><br/>
         <div>[Spring] ReactiveCrudRe pository를 이용한 삭제 시 주의점 </div>
     </a>
     <div>😟 문제 상황 찜을 삭제하고 별도의 작업을 위해 event publish 하는 로직을 작성하였다.fun remove(favorit e: Favor...</div>
     <div>24.04.28</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/328">
-        <img width="100%" src="/img/4074118063351882134.png"/><br/>
+        <img width="100%" src="/img/27656853701690033.png"/><br/>
         <div>[책 후기] 도둑맞은 집중력 </div>
     </a>
     <div>저자: 요한 하리 출판사: 어크로스 책 링크:  1. 읽게 된 계기 오늘 후기를 작성하는 책은 IT 서적은 아니다. 서점에...</div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/327">
-        <img width="100%" src="/img/8591750365638968114.png"/><br/>
+        <img width="100%" src="/img/6768956778121710420.png"/><br/>
         <div>[Reactor] zip vs zipWith vs zipWhen </div>
     </a>
     <div>💡 zip() 여러개의 Publisher를 인자로 넘기고, 이 모든 Publisher들의 결과를 한 묶음으로 조회할 수 있다. Publishe...</div>
     <div>24.04.07</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/326">
-        <img width="100%" src="/img/3296920317346812318.png"/><br/>
-        <div>무기력을 흘려보내는 이야기 </div>
-    </a>
-    <div>목차1. 무기력이 찾아온 이야기2. 무기력을 받아들이는 이야기3. 무기력을 흘려보내는 이야기4. 마무리하는 이야기 1....</div>
-    <div>24.03.31</div>
 </td>
 </tr>
 </tbody></table>

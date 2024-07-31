@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/337">
+        <img width="100%" src="/img/4079489964677323950.png"/><br/>
+        <div>[Coroutine] 코루틴과 공유 상태 </div>
+    </a>
+    <div>코루틴 스터디를 하며 정리 중인 시리즈 글왜 코루틴을 써야할까?[Coroutin e] 코루틴 빌더, 코루틴 컨텍스트[Corouti...</div>
+    <div>24.07.31</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/336">
-        <img width="100%" src="/img/8824997626782908950.png"/><br/>
+        <img width="100%" src="/img/4492791048350981316.png"/><br/>
         <div>[Coroutine] 코루틴 디스패처 </div>
     </a>
     <div>코루틴 스터디를 하며 정리중인 시리즈 글왜 코루틴을 써야할까?[Coroutin e] 코루틴 빌더, 코루틴 컨텍스트[Coroutin...</div>
@@ -20,16 +28,8 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/335">
-        <img width="100%" src="/img/680331934736956766.png"/><br/>
+        <img width="100%" src="/img/1658401084990810996.png"/><br/>
         <div>[Coroutine] 코루틴 스코프 함수 </div>
-    </a>
-    <div>코루틴 스터디를 하며 정리중인 시리즈 글왜 코루틴을 써야할까?[Coroutin e] 코루틴 빌더, 코루틴 컨텍스트[Coroutin...</div>
-    <div>24.06.29</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/334">
-        <img width="100%" src="/img/2182048374702880013.png"/><br/>
-        <div>[Coroutine] 구조화된 동시성, 코루틴 스코프 </div>
     </a>
     <div>코루틴 스터디를 하며 정리중인 시리즈 글왜 코루틴을 써야할까?[Coroutin e] 코루틴 빌더, 코루틴 컨텍스트[Coroutin...</div>
     <div>24.06.29</div>
@@ -37,8 +37,16 @@
 </tr>
 <tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/334">
+        <img width="100%" src="/img/1541867076493938793.png"/><br/>
+        <div>[Coroutine] 구조화된 동시성, 코루틴 스코프 </div>
+    </a>
+    <div>코루틴 스터디를 하며 정리중인 시리즈 글왜 코루틴을 써야할까?[Coroutin e] 코루틴 빌더, 코루틴 컨텍스트[Coroutin...</div>
+    <div>24.06.29</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/333">
-        <img width="100%" src="/img/8658305366626486874.png"/><br/>
+        <img width="100%" src="/img/4379500520828602145.png"/><br/>
         <div>[Coroutine] 코루틴 빌더, 코루틴 컨텍스트 </div>
     </a>
     <div>코루틴 스터디를 하며 정리중인 시리즈 글왜 코루틴을 써야할까?[Coroutin e] 코루틴 빌더, 코루틴 컨텍스트[Coroutin...</div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/332">
-        <img width="100%" src="/img/1824020673320703429.png"/><br/>
+        <img width="100%" src="/img/9135546942726691422.png"/><br/>
         <div>왜 코루틴을 써야할까? </div>
     </a>
     <div>코루틴 스터디를 하며 정리중인 시리즈 글왜 코루틴을 써야할까?[Coroutin e] 코루틴 빌더, 코루틴 컨텍스트[Coroutin...</div>
     <div>24.06.09</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/331">
-        <img width="100%" src="/img/20718412370878587.png"/><br/>
-        <div>Spring Camp 2024 후기 </div>
-    </a>
-    <div>😎 참가 신청 2024년 5월 25일, KSUG가 주관하는 스프링 캠프 컨퍼런스에 다녀왔다. 매년 인기가 좋은 컨퍼런스인지 ...</div>
-    <div>24.05.25</div>
 </td>
 </tr>
 </tbody></table>

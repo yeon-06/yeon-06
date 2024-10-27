@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/341">
+        <img width="100%" src="/img/2637080727325455465.png"/><br/>
+        <div>[Kotest] Kotest 활용 간단 가이드 </div>
+    </a>
+    <div>Kotest란? 🤔 공식 사이트에 가보면 Kotest를 아래와 같은 말로 표현하고 있다.Kotest is a flexible and elegant mul...</div>
+    <div>24.10.27</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/340">
-        <img width="100%" src="/img/5612283744042375344.png"/><br/>
+        <img width="100%" src="/img/1203599978631471314.png"/><br/>
         <div>Spring MVC + Coroutines 에 대한 고민 </div>
     </a>
     <div>🤔 문제의 시작 우리 팀은 Spring MVC와 Coroutines, Kotlin을 사용하는 레포가 있다. 신규 API를 개발해서 호출하니 ...</div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/339">
-        <img width="100%" src="/img/5948223602222814391.png"/><br/>
+        <img width="100%" src="/img/538557769185193598.png"/><br/>
         <div>서울 우먼잇츠 X 우아한스터디 후기 </div>
     </a>
     <div>⏰ 스터디 지원 2024.06.01 ~ 2024.07.27까지 약 두 달간 서울 우먼잇츠 X 우아한스터디를 참여했다. 서울 우먼잇츠 X ...</div>
     <div>24.09.22</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/338">
-        <img width="100%" src="/img/6357831483019549121.png"/><br/>
+        <img width="100%" src="/img/8021007516231867254.png"/><br/>
         <div>[인프콘 후기] 2024 INFCON </div>
     </a>
     <div>1. 올해도 인프콘! 올해도 인프콘 신청에 광탈했다.😇 하지만 정말 감사하게도! 문기님의 은혜로 초대권을 받아 참가...</div>
     <div>24.08.03</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/337">
-        <img width="100%" src="/img/1144975350380944080.png"/><br/>
+        <img width="100%" src="/img/1244298188154724674.png"/><br/>
         <div>[Coroutine] 코루틴과 공유 상태 </div>
     </a>
     <div>코루틴 스터디를 하며 정리 중인 시리즈 글왜 코루틴을 써야할까?[Coroutin e] 코루틴 빌더, 코루틴 컨텍스트[Corouti...</div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/336">
-        <img width="100%" src="/img/310094181942043752.png"/><br/>
+        <img width="100%" src="/img/2710907769553388626.png"/><br/>
         <div>[Coroutine] 코루틴 디스패처 </div>
     </a>
     <div>코루틴 스터디를 하며 정리 중인 시리즈 글왜 코루틴을 써야할까?[Coroutin e] 코루틴 빌더, 코루틴 컨텍스트[Corouti...</div>
     <div>24.07.08</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/335">
-        <img width="100%" src="/img/5485433007015420320.png"/><br/>
-        <div>[Coroutine] 코루틴 스코프 함수 </div>
-    </a>
-    <div>코루틴 스터디를 하며 정리 중인 시리즈 글왜 코루틴을 써야할까?[Coroutin e] 코루틴 빌더, 코루틴 컨텍스트[Corouti...</div>
-    <div>24.06.29</div>
 </td>
 </tr>
 </tbody></table>

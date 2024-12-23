@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/344">
+        <img width="100%" src="/img/7642539219965997497.png"/><br/>
+        <div>구조적 동시성 이해하기 (feat. goto의 역사) </div>
+    </a>
+    <div>이 글은 'Notes on structured concurrency, or: Go statement considered harmful'을 번역한 글입니다. 원작자의 허...</div>
+    <div>24.12.23</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/343">
-        <img width="100%" src="/img/5467737259748396837.png"/><br/>
+        <img width="100%" src="/img/6161370260677816002.png"/><br/>
         <div>[I in We x AWS] 멘토링 후기 </div>
     </a>
     <div>AWS 멘토링이란? 지난 10월 17일부터 11월 21일까지, 지인의 추천으로 I in We와 AWS가 진행하는 멘토링에 참여하게 ...</div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/342">
-        <img width="100%" src="/img/3663384656975376780.png"/><br/>
+        <img width="100%" src="/img/6220248979037950396.png"/><br/>
         <div>[우아콘 후기] 2024 WOOWACON </div>
     </a>
     <div>지난 10월 30일 우아콘에 참여했다. 행사가 끝난 지 열흘이나 지났지만, 운영진으로 참여한 행사는 처음이라 내게는 ...</div>
     <div>24.11.10</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/341">
-        <img width="100%" src="/img/2581093012178837119.png"/><br/>
+        <img width="100%" src="/img/7377380723083051858.png"/><br/>
         <div>[Kotest] Kotest 활용 간단 가이드 </div>
     </a>
     <div>Kotest란? 🤔 공식 사이트에 가보면 Kotest를 아래와 같은 말로 표현하고 있다.Kotest is a flexible and elegant mul...</div>
     <div>24.10.27</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/340">
-        <img width="100%" src="/img/4867813046021309860.png"/><br/>
+        <img width="100%" src="/img/4722027300122711982.png"/><br/>
         <div>Spring MVC + Coroutines 에 대한 고민 </div>
     </a>
     <div>🤔 문제의 시작 우리 팀은 Spring MVC와 Coroutines, Kotlin을 사용하는 레포가 있다. 신규 API를 개발해서 호출하니 ...</div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/339">
-        <img width="100%" src="/img/2814556626118879697.png"/><br/>
+        <img width="100%" src="/img/3050954438588353313.png"/><br/>
         <div>서울 우먼잇츠 X 우아한스터디 후기 </div>
     </a>
     <div>⏰ 스터디 지원 2024.06.01 ~ 2024.07.27까지 약 두 달간 서울 우먼잇츠 X 우아한스터디를 참여했다. 서울 우먼잇츠 X ...</div>
     <div>24.09.22</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/338">
-        <img width="100%" src="/img/5780568750195725023.png"/><br/>
-        <div>[인프콘 후기] 2024 INFCON </div>
-    </a>
-    <div>1. 올해도 인프콘! 올해도 인프콘 신청에 광탈했다.😇 하지만 정말 감사하게도! 문기님의 은혜로 초대권을 받아 참가...</div>
-    <div>24.08.03</div>
 </td>
 </tr>
 </tbody></table>

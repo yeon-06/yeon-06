@@ -11,8 +11,34 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/363">
+        <img width="100%" src="/img/501085787533011177.png"/><br/>
+        <div>AI 에이전트란? </div>
+    </a>
+    <div>개요 이 글은 AI 에이전트에서 사용되는 기본적인 용어들을 간단하게 정리하는 글입니다. 이미 에이전트를 개발하고 ...</div>
+    <div>26.03.30</div>
+</td>
+<td>
+    <a href="https://yeonyeon.tistory.com/362">
+        <img width="100%" src="/img/6390904878912809781.png"/><br/>
+        <div>토스 러너스하이 서버 2기 후기 - 한 달 동안 얻은 인사이트 </div>
+    </a>
+    <div>✏️ 서론 지난 12월 ~ 1월에 진행했던 토스 러너스하이를 이제야 후기를 작성한다. 급한 회사 일을 마무리하고 리프레...</div>
+    <div>26.03.12</div>
+</td>
+<td>
+    <a href="https://yeonyeon.tistory.com/361">
+        <img width="100%" src="/img/5349815438632470940.png"/><br/>
+        <div>LLM 이해하기 - 딥러닝부터 LLM까지 </div>
+    </a>
+    <div>서론 AI 이야기를 듣다 보면 비슷해 보이는 단어들이 많이 보인다. 딥러닝, LLM, 자연어 처리 등 이런 유사해 보이는 ...</div>
+    <div>26.01.31</div>
+</td>
+</tr>
+<tr>
+<td>
     <a href="https://yeonyeon.tistory.com/360">
-        <img width="100%" src="/img/3292523757815237914.png"/><br/>
+        <img width="100%" src="/img/7275190986622817974.png"/><br/>
         <div>3년차 개발자의 2025년 회고 </div>
     </a>
     <div>서론 입사 이후로 제목을 X년차 개발자의 20XX년 회고로 썼더니 계속 고정해야 할 것 같다. 내년부터는 제목 짓기에 ...</div>
@@ -20,7 +46,7 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/359">
-        <img width="100%" src="/img/8497811526570352673.png"/><br/>
+        <img width="100%" src="/img/8344163815871789883.png"/><br/>
         <div>RAG란? </div>
     </a>
     <div>지난번 LangChain이란? 포스팅에서 RAG를 아래와 같이 설명했다. 1. RAG= Retrieval Augmented Generation, 검색 증강...</div>
@@ -28,37 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/358">
-        <img width="100%" src="/img/9187474713000310121.png"/><br/>
+        <img width="100%" src="/img/2277672559158549469.png"/><br/>
         <div>LangChain이란? </div>
     </a>
     <div>AI 기본 용어 정리 LangChain을 훑어가기 앞서, 나는 LLM = LangChain = AI라고 생각할 정도로 AI에 대해 잘 몰랐다. ...</div>
     <div>25.11.03</div>
-</td>
-</tr>
-<tr>
-<td>
-    <a href="https://yeonyeon.tistory.com/357">
-        <img width="100%" src="/img/5956313211956323160.png"/><br/>
-        <div>[우아콘 후기] 2025 WOOWACON </div>
-    </a>
-    <div>2025년 10월 28일 삼성 파르나스에서 열린 우아콘 행사를 다녀왔다! 작년에는 세션을 운영하는 스태프로 참여했는데 ...</div>
-    <div>25.10.30</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/356">
-        <img width="100%" src="/img/3658141534241815643.png"/><br/>
-        <div>2025 Spring AI 밋업 후기 </div>
-    </a>
-    <div>오랜만에 기술 컨퍼런스를 다녀왔다. 한국 스프링 사용자 모임에서 Spring AI에 대한 밋업이 진행되었다. Spring AI는...</div>
-    <div>25.10.26</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/355">
-        <img width="100%" src="/img/593079897456901276.png"/><br/>
-        <div>[책 후기] 백엔드 개발자가 반드시 알아야 할 실무 지식 </div>
-    </a>
-    <div>저자: 최범균출판사: 한빛미디어책 링크:  책을 읽게 된 계기는 친구들과 하던 스터디였다. 같은 시기 취업한 친구들...</div>
-    <div>25.08.30</div>
 </td>
 </tr>
 </tbody></table>

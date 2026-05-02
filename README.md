@@ -11,8 +11,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://yeonyeon.tistory.com/364">
+        <img width="100%" src="/img/6609943843108407163.png"/><br/>
+        <div>Claude Code for Developers 밋업 후기 </div>
+    </a>
+    <div>Claude Code 커뮤니티가 주최하는 밋업을 다녀왔다. 일시: 2026-04-30 10:00 ~ 12:00형식: 발표 4 세션 + 네트워킹 Q&...</div>
+    <div>26.05.02</div>
+</td>
+<td>
     <a href="https://yeonyeon.tistory.com/363">
-        <img width="100%" src="/img/501085787533011177.png"/><br/>
+        <img width="100%" src="/img/1852730170673634764.png"/><br/>
         <div>AI 에이전트란? </div>
     </a>
     <div>개요 이 글은 AI 에이전트에서 사용되는 기본적인 용어들을 간단하게 정리하는 글입니다. 이미 에이전트를 개발하고 ...</div>
@@ -20,25 +28,25 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/362">
-        <img width="100%" src="/img/6390904878912809781.png"/><br/>
+        <img width="100%" src="/img/7685961976958593691.png"/><br/>
         <div>토스 러너스하이 서버 2기 후기 - 한 달 동안 얻은 인사이트 </div>
     </a>
     <div>✏️ 서론 지난 12월 ~ 1월에 진행했던 토스 러너스하이를 이제야 후기를 작성한다. 급한 회사 일을 마무리하고 리프레...</div>
     <div>26.03.12</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/361">
-        <img width="100%" src="/img/5349815438632470940.png"/><br/>
+        <img width="100%" src="/img/3710322585127443912.png"/><br/>
         <div>LLM 이해하기 - 딥러닝부터 LLM까지 </div>
     </a>
     <div>서론 AI 이야기를 듣다 보면 비슷해 보이는 단어들이 많이 보인다. 딥러닝, LLM, 자연어 처리 등 이런 유사해 보이는 ...</div>
     <div>26.01.31</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://yeonyeon.tistory.com/360">
-        <img width="100%" src="/img/7275190986622817974.png"/><br/>
+        <img width="100%" src="/img/2612793813558706821.png"/><br/>
         <div>3년차 개발자의 2025년 회고 </div>
     </a>
     <div>서론 입사 이후로 제목을 X년차 개발자의 20XX년 회고로 썼더니 계속 고정해야 할 것 같다. 내년부터는 제목 짓기에 ...</div>
@@ -46,19 +54,11 @@
 </td>
 <td>
     <a href="https://yeonyeon.tistory.com/359">
-        <img width="100%" src="/img/8344163815871789883.png"/><br/>
+        <img width="100%" src="/img/5617816355788443899.png"/><br/>
         <div>RAG란? </div>
     </a>
     <div>지난번 LangChain이란? 포스팅에서 RAG를 아래와 같이 설명했다. 1. RAG= Retrieval Augmented Generation, 검색 증강...</div>
     <div>25.11.04</div>
-</td>
-<td>
-    <a href="https://yeonyeon.tistory.com/358">
-        <img width="100%" src="/img/2277672559158549469.png"/><br/>
-        <div>LangChain이란? </div>
-    </a>
-    <div>AI 기본 용어 정리 LangChain을 훑어가기 앞서, 나는 LLM = LangChain = AI라고 생각할 정도로 AI에 대해 잘 몰랐다. ...</div>
-    <div>25.11.03</div>
 </td>
 </tr>
 </tbody></table>
